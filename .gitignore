@@ -1,0 +1,4 @@
+.env
+sheetcredentials.json 
+venv
+__pycache__
